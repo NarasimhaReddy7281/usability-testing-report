@@ -45,14 +45,6 @@ Recommendations
 - Reduce the prominence of advertisements.
 - Provide clearer order updates.
 
-Repository Structure
-
-swiggy-usability-testing-report/
-│
-├── README.md
-├── usability-testing-report.pdf
-├── screenshots/
-└── assets/
 
 Tools Used
 
